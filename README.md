@@ -1,0 +1,2 @@
+# Hand_Gesture_Recognition_Competition
+Montly dacon competition 2023_01
